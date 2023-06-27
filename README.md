@@ -3,7 +3,7 @@ comparation methods of segmentations in dicom images
 
 metrics deep learning X classic
 
-deep learning accuracy:
+deep learning accuracy: 99.48%
 classic accuracy: 98.70%
 
 metrics classic:
